@@ -2,7 +2,7 @@
 #### Senior Software Engineer | Flutter Developer | Android Developer | Open Source Contributer
 #### Having 5 years of Mobile Application Development Experience
 
-- Currently working on Flutter Mobile application, 
+- Currently working on Flutter Mobile application as having expertise on dart + Knowledge of Android Native (JAVA and Kotlin) as have started carrier as Android Developer, Having Good knowledge of MVP and BLOC Architecture.
 - Started learning Node.js in order to write APIs or to do Small things with web ;)
 - I'm having many open-source libraries for which would like your support to add more features.
 - You can contact me for any help related to flutter.
