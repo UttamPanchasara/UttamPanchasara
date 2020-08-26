@@ -7,7 +7,7 @@
 - I'm having many open-source libraries for which would like your support to add more features.
 - 💬 You can contact me for any help related to flutter or Android.
 - You can reach me: panchasarauttam@gmail.com
-⚡ Fun fact: Travel Lover!
+- ⚡ Fun fact: Travel Lover!
 <!--
 **UttamPanchasara/UttamPanchasara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
