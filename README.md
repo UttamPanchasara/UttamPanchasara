@@ -2,6 +2,8 @@
 #### Senior Software Engineer | Flutter Developer | Android Developer | Open Source Contributer
 #### Having 5 years of Mobile Application Development Experience
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=UttamPanchasara&label=Views&color=blue&style=plastic" alt="UttamPanchasara" /> </p>
+
 - Currently working on AI base Flutter Mobile application as having expertise on Dart + Bloc Architecture.
 - Good knowledge of Android Native (JAVA and Kotlin) with MVP Architecture as carrier was started as Android Developer.
 - 🌱 Started learning Node.js in order to write APIs or to do Small things with web ;)
