@@ -1,16 +1,20 @@
 ### Uttam Panchasara
-#### Senior Software Engineer | Flutter Developer | Android Developer | Open Source Contributer
-#### Having 8 years of Mobile Application Development Experience
+#### Senior Mobile Developer | Flutter, Dart, BLoC | Android (Kotlin/Java) | Open Source Contributer
+#### Having 9+ years of Mobile Application Development Experience
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=UttamPanchasara&label=Views&color=blue&style=plastic" alt="UttamPanchasara" /> </p>
 
-- Currently working on AI base Flutter Mobile application as having expertise on Dart + Bloc Architecture.
-- Good knowledge of Android Native (JAVA and Kotlin) with MVP Architecture as carrier was started as Android Developer.
-- 🌱 Started learning Node.js in order to write APIs or to do Small things with web ;)
-- I'm having many open-source libraries for which would like your support to add more features.
-- 💬 You can contact me for any help related to flutter or Android.
-- You can reach me: panchasarauttam@gmail.com
-- ⚡ Fun fact: Travel Lover!
+I’m a Senior Mobile Engineer focused on AI-driven development workflows and modern vibe-coding practices, building high-quality mobile applications with solid expertise in Dart, BLoC, and scalable architecture patterns.
+My career started in Native Android Development (Java/Kotlin, MVP), which gives me strong fundamentals in mobile engineering and performance optimization.
+
+I enjoy learning new backend concepts occasionally so I can build small APIs or understand full-stack workflows better — but my core focus remains mobile development.
+
+I frequently publish POCs, utility code, and small open-source samples that help other developers explore ideas or solve practical problems.
+
+💬 Feel free to reach out for anything related to Flutter, Android, or architectural guidance.
+📧 panchasarauttam@gmail.com
+
+⚡ Travel Lover
 <!--
 **UttamPanchasara/UttamPanchasara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
