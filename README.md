@@ -1,5 +1,5 @@
 ### Uttam Panchasara
-#### Senior Mobile Developer | Flutter, Dart, BLoC | Android (Kotlin/Java) | Open Source Contributer
+#### Mobile + AI Engineer | Flutter & Dart | BLoC | Android (Kotlin/Java) | Open Source Contributer
 #### Having 9+ years of Mobile Application Development Experience
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=UttamPanchasara&label=Views&color=blue&style=plastic" alt="UttamPanchasara" /> </p>
